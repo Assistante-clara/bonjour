@@ -1,0 +1,7 @@
+
+    <item>dis bonjour à Laurent<tag>data.tts="bonjour laurent comment vas";</tag></item>
+    <item>dis bonjour à Magalie<tag>data.tts="content de t'entendre";</tag></item>
+    
+    
+    <item>dis bonjour à<tag>data.bonjour="dis bonjour à";data.bonjourplus="enchanté de vous voir";</tag></item>
+<item>bonjour<tag>data.tts="Bonjour à toi";</tag></item>
